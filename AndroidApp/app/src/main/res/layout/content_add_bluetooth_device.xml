@@ -9,7 +9,6 @@
     tools:showIn="@layout/activity_add_bluetooth_device">
 
     <TextView
-        android:id="@+id/sample_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
